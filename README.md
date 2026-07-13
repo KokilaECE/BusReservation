@@ -1,0 +1,1 @@
+A Java-based Bus Reservation mini-project. Features a terminal/console application handling real-time seat bookings, AC/non-AC preferences, and bus capacities, fully integrated with a JDBC database for persistent data storage.
